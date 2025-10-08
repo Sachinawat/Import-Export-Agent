@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+pandas
+python-dotenv
+openai
+openpyxl
+
+
+
+
+
+
+
+<script async src="https://cse.google.com/cse.js?cx=00c6dc0d4ce794715">
+</script>
+<div class="gcse-search"></div>
