@@ -1,4 +1,5 @@
 import requests
+import numpy as np
 from bs4 import BeautifulSoup
 from typing import List, Dict, Any, Optional
 from urllib.parse import urlparse, urljoin
